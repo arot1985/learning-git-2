@@ -16,3 +16,8 @@ p {
 h2 {
 	font-style: italic;
 }
+
+.info {
+	font-size: 14px
+	font-style: italic;
+}
